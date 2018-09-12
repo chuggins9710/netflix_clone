@@ -185,7 +185,7 @@
 }
 
 /* For Mobile */
-@media screen and (max-width: 600px) {
+@media (max-width: 600px) {
   .videoBoxes{
     width: 95%;
     margin: 2.5%;
